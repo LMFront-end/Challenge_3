@@ -1,0 +1,36 @@
+Siguiendo con nuestra carrera de personajes, te proponemos que decidas qué función tiene que utilizar cada uno en las siguientes vueltas, para obtener los resultados que se mencionan debajo. Algunas reglas para este desafío son:
+
+* No se puede alterar el orden de largada. Siempre tienen que largar en este orden: Mario, Luigi y Toad
+
+*Solo se pueden utilizar console.log() y setTimeout como funciones para cada personaje.
+
+Cuarta Vuelta:
+
+Resultado:
+
+1- Toad
+2- Mario
+3- Luigi
+
+Quinta Vuelta
+
+Resultado:
+
+1- Mario
+2- Toad
+3- Luigi
+
+Sexta Vuelta
+
+1- Toad
+2- Luigi
+3- Mario
+
+Séptima Vuelta
+
+1- Luigi
+2- Mario
+3- Toad
+
+
+
